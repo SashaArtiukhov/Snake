@@ -150,7 +150,7 @@ namespace snake3
                 if ((Math.Abs(point.X - currentPosition.X) < size) &&
                     (Math.Abs(point.Y - currentPosition.Y) < size))
                 {
-                    length += 30;
+                    length += 25;
                     score += 10;
                     
 
